@@ -4,8 +4,10 @@ const experiences = [
     company: "Al-Andalus, Ramallah",
     period: "Aug 2023 – Present",
     details: [
-      "Developed Android, Web, and Desktop apps using Flutter.",
+      "Developed and maintained several Android applications, Web Applications, and Desktop Applications ensuring high performance and responsiveness using flutter.",
       "Worked with Firebase, MVC/MVVM, and Business Intelligence systems.",
+      "Utilized Dart programming language and Flutter framework for cross-platform development.",
+      "Work on Business Intelligence and Point of sale projects."
     ],
   },
   {
@@ -16,6 +18,14 @@ const experiences = [
       "Built a car rental website using Laravel and Bootstrap.",
     ],
   },
+{
+  title:"Ui/Ux Designer",
+  company: "Freelance",
+    details: [
+      "Designing Posters/Logos using Adobe Photoshop and Illustrator (Adobe Ps). ",
+      "Intermediate in Creating/Editing videos using adobe premiere (Adobe Pr)."
+    ],
+}
 ];
 
 export default function Experience() {
